@@ -1,0 +1,3 @@
+# Install on venv
+
+qrcode[pil]
